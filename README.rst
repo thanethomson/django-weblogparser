@@ -1,9 +1,19 @@
 Django Web Log Parser
 =====================
 
-Copyright (c) 2011, Thane Thomson. See the LICENSE file for licensing information.
+See the LICENSE file for licensing information.
 
-Documentation coming soon!
+Introduction
+------------
+django-weblogparser is a relatively simple app for Django to facilitate parsing of
+Apache/Nginx log files and importing them into the database via a management command.
+
+The main aim of this app was to allow for easy extraction of more detailed information
+from the logs.
+
+More Coming Soon
+----------------
+More documentation coming soon!
 
 TODO
 ----
