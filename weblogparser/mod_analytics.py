@@ -1,7 +1,7 @@
 #
-# Analytics for django-weblog-parser
+# Analytics for django-weblogparser
 #
-# Requires panya-analytics
+# Requires panya-analytics. Can be ignored if panya-analytics is not present.
 #
 
 from datetime import timedelta

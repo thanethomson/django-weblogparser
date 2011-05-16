@@ -1,5 +1,5 @@
 #
-# django-weblog-parser v0.1
+# django-weblogparser
 #
 # Command to import one or more web logs.
 #
