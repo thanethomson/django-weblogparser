@@ -5,3 +5,9 @@ Copyright (c) 2011, Thane Thomson. See the LICENSE file for licensing informatio
 
 Documentation coming soon!
 
+TODO
+----
+* Documentation
+* Create setup script
+* Write unit tests
+
