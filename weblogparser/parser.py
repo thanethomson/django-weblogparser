@@ -236,7 +236,7 @@ def import_logs(basepath, pattern, fmt, verbose=True, reparse=False):
     """
 
     if verbose:
-        print _("Parsing for regex pattern:")
+        print _("Searching for files matching regex pattern:")
         print pattern
 
     for filename in list_dir(basepath, regexp=pattern):
